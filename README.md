@@ -38,4 +38,6 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |----|----|
 |2| On the first page of the website, there are sections that catches attention in big bold letters. The captions can be seen as fun and trendy, but it might confuse the users of the things that they are seeing. It will be better to actually categorize the caption with more direct words such as "Halloween: Pumpkin recipes".
 |3| It will be easier to look through the navigation bar when the categories are more organized. Since there are cateory of "Meals & Cooking" and "Holidays", it might confuse the user and make it not effecient. It will be more eaier to be understood if the "Holiday" was in the subcategory of "Meals & Cooking", because it is a category of recipe. 
-![Category]
+
+![Category](Pumpkin.png)
+!(naviagtionbar.png)
