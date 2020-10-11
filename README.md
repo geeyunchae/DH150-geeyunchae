@@ -20,4 +20,5 @@ Ratings from 1~3 are used to examine the usability problems.
 ### Heurisic Evaluation of Website - *Delish*
 https://www.delish.com/
 
-![Delish home page](Screen Shot .png)
+![Delish home page](ScreenShot1.png)
+
