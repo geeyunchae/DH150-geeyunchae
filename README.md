@@ -99,9 +99,9 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |Rating| Evaluation|
 |----|----|
 |3| It is not easy to search for help in the website. It lacks the Help page or any other customer service. The only way it provides help would be to send an email to info@delish.com|
-|3| The site map does not help at all. It just lists all the categories in the naviagtion bar rather than an explanation of the site. 
-|3| There can be a function that allows the user to search for help easily with "top article suggestions" or "relevant search options".
-|3| The website provides too much unnecessary information during the process of search. The options should be strictly narrowed down with relevant answers or posts. 
+|3| The site map does not help at all. It just lists all the categories in the naviagtion bar rather than an explanation of the site. |
+|3| There can be a function that allows the user to search for help easily with "top article suggestions" or "relevant search options".|
+|3| The website provides too much unnecessary information during the process of search. The options should be strictly narrowed down with relevant answers or posts. |
 
 ## Heuristic Evaluation on App - *Mealime*
 https://www.mealime.com/
@@ -112,48 +112,65 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 ### 1: Visibility of System Status
 |Rating|Evaluation|
 |----|----|
-|0| This app allows the user to track all the actions that they take. It will allow the user to check the items of their interests and to save it up for later view. It also allows the user to have list of options when they search. It provides convenience and ensures accuracy.
+|0| This app allows the user to track all the actions that they take. It will allow the user to check the items of their interests and to save it up for later view. It also allows the user to have list of options when they search. It provides convenience and ensures accuracy.|
 
-![Mealime home page](savedd.png) ![Mealime home page](options.png)
+![Mealime home page](options.png)
 
 ### 2: Match Between System and the Real World
 |Rating|Evaluation|
 |----|----|
-|1| This app works just like a physical cook book. The instructions are listed with careful and specific measurements. However, it will be more effecient if somekind of picture or video of cooking procedure are provided. 
+|1| This app works just like a physical cook book. The instructions are listed with careful and specific measurements. However, it will be more effecient if somekind of picture or video of cooking procedure are provided. |
 
 ### 3: User Control and Freedom
 |Rating|Evaluation|
 |----|----|
 |1| The app allows the user to click on the finished meal from the meal plan on the site. However, you'll need to tap on the setting button on the right hand corner in order to actually delete the one that you've accidentally added. It will be more efficient to add a function to slide to delete.|
 
+![Mealime home page](savedd)
+
 ### 4: Consistency and Standards
 |Rating|Evaluation|
 |----|----|
-|2| It will be more easier to lock the icon bar at the bottom of the app throughout the navigation. When searching for meal, the tool disappers and you have to press on the exit button to see your preference. 
+|2| It will be more easier to lock the icon bar at the bottom of the app throughout the navigation. When searching for meal, the tool disappers and you have to press on the exit button to see your preference. |
 
 ### 5: Error Prevention
 |Rating|Evaluation|
 |----|----|
-|1| It would have been helpful when there are typo indicator or relevant options in this app. It a typo is made, it will just lead on the no matching recipes page.
-|2| Most of the recipes are "pro-only". When a user presses on to one of the following, a pop up will be alerting that this recipe is only for pro and requires a paid upgrade. It will be more efficent if paid and free vesions are categorized for easier search.
+|1| It would have been helpful when there are typo indicator or relevant options in this app. It a typo is made, it will just lead on the no matching recipes page.|
+|2| Most of the recipes are "pro-only". When a user presses on to one of the following, a pop up will be alerting that this recipe is only for pro and requires a paid upgrade. It will be more efficent if paid and free vesions are categorized for easier search.|
+![Mealime home page](pro.png)
 
 ### 6: Recognition Rather than Recall
 |Rating|Evaluation|
 |----|----|
-|3| It would be very helpful to provide or list relevant search options from the past interest of the users. This app allows you to save the recipes, but does not recommend according to the user's interest. The categories are mostly listed by: recently created, most popular, top rated, etc.
+|3| It would be very helpful to provide or list relevant search options from the past interest of the users. This app allows you to save the recipes, but does not recommend according to the user's interest. The categories are mostly listed by: recently created, most popular, top rated, etc.|
 
 ### 7: Flexibility and Efficiency of Use
 |Rating|Evaluation|
 |----|----|
-|3| It is very important for an app to have accelerators in their system. This app is conveninent, but does not perform any function of accelerators. Double-tap to like or save; Slide to delete a meal plan or recipe might be useful.
+|3| It is very important for an app to have accelerators in their system. This app is conveninent, but does not perform any function of accelerators. Double-tap to like or save; Slide to delete a meal plan or recipe might be useful.|
 
 ### 8: Aesthetic and Minimalistic Design
 |Rating|Evaluation|
 |----|----|
-|0| All the fonts size and font style aligns. It gives a clean overall look.
-|2| On the first page of build a meal plan, it might have been more easier for the user to show the categories of the meals, rather than listing all kinds of meal by the recently added order. 
-|2| Icons of different categories (pasta, meat, etc.) would have been made the app look more clean and minimalistic rather than showing all the food pictures at once. 
-![Mealime home page](
+|0| All the fonts size and font style aligns. It gives a clean overall look.|
+|2| On the first page of build a meal plan, it might have been more easier for the user to show the categories of the meals, rather than listing all kinds of meal by the recently added order. |
+|2| Icons of different categories (pasta, meat, etc.) would have been made the app look more clean and minimalistic rather than showing all the food pictures at once. |
+![Mealime home page](lists.png)
+
+### 9: Help Users Recognize, Diagnose, and Recover from Errors
+|Rating|Evaluation|
+|----|----|
+|2| There should be recommendations, relevant search options for the user based on their search history and preferences.|
+
+### 10: Help and Documentation
+|Rating|Evaluation|
+|----|----|
+|2| There are support page and F&Q pages with list of questions. However, the information descriptions are very long and oveloaded that it is not very easy to look for the information. A virtual service button or service navigation steps can be provided for easier assistant when needed.|
+|0|The contact us service is very well organized. It allows easy approach to the service center. |
+
+![Mealime home page](contact.png)
+
 
 
 
