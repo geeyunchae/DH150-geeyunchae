@@ -138,6 +138,7 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 |----|----|
 |1| It would have been helpful when there are typo indicator or relevant options in this app. It a typo is made, it will just lead on the no matching recipes page.|
 |2| Most of the recipes are "pro-only". When a user presses on to one of the following, a pop up will be alerting that this recipe is only for pro and requires a paid upgrade. It will be more efficent if paid and free vesions are categorized for easier search.|
+
 ![Mealime home page](pro.png)
 
 ### 6: Recognition Rather than Recall
@@ -156,6 +157,7 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 |0| All the fonts size and font style aligns. It gives a clean overall look.|
 |2| On the first page of build a meal plan, it might have been more easier for the user to show the categories of the meals, rather than listing all kinds of meal by the recently added order. |
 |2| Icons of different categories (pasta, meat, etc.) would have been made the app look more clean and minimalistic rather than showing all the food pictures at once. |
+
 ![Mealime home page](lists.png)
 
 ### 9: Help Users Recognize, Diagnose, and Recover from Errors
