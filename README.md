@@ -40,8 +40,7 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |2| On the first page of the website, there are sections that catches attention in big bold letters. The captions can be seen as fun and trendy, but it might confuse the users of the things that they are seeing. It will be better to actually categorize the caption with more direct words such as "Halloween: Pumpkin recipes". It will be more straight forward.|
 |3| It will be easier to look through the navigation bar when the categories are more organized. Since there are cateory of "Meals & Cooking" and "Holidays", it might confuse the user and make it not effecient. It will be more eaier to be understood if the "Holiday" was in the subcategory of "Meals & Cooking", because it is a category of recipe. |
 
-![Delish home page](pumpkin.png)
-![Delish home page](navigationbar.png)
+![Delish home page](pumpkinn.png) ![Delish home page](navigationbar.png)
 
 ### 3: User Control and Freedom
 |Rating|Evaluation|
@@ -105,6 +104,7 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 ## Heuristic Evaluation on App - *Mealime*
 https://www.mealime.com/
 Mealime is an app that allows the user to search for new recipes. The app provides the information of the cookware, ingredients, and instructions with details. It allows the user to select on the grocery check list which will list all the ingredients. There is also an option for delivery and pick up from different locations of preferences. 
+
 ![Mealime home page](screenshot.png)
 
 ### 1: Visibility of System Status
