@@ -126,7 +126,7 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 |----|----|
 |1| The app allows the user to click on the finished meal from the meal plan on the site. However, you'll need to tap on the setting button on the right hand corner in order to actually delete the one that you've accidentally added. It will be more efficient to add a function to slide to delete.|
 
-![Mealime home page](savedd)
+![Mealime home page](savedd.png)
 
 ### 4: Consistency and Standards
 |Rating|Evaluation|
