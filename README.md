@@ -110,7 +110,7 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 ### 1: Visibility of System Status
 |Rating|Evaluation|
 |0| This app allows the user to track all the actions that they take. It will allow the user to check the items of their interests and to save it up for later view. It also allows the user to have list of options when they search.
-![Mealime home page](saved.png) ![Mealime home page](search.png)
+![Mealime home page](saved.png) ![Mealime home page](options.png)
 
 
 
