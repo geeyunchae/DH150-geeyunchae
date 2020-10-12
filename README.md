@@ -90,6 +90,7 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |Rating|Evaluation|
 |----|----|
 |3| There is no "not found" or "Error" function in the search option. Even though a wrong word is typed, there would be number of results. This would not only make the users think that the search is inaccurate, but also will not be helpful to correct the errors that they've made. The website fails to precisely indicate the error or problem.|
+
 ![Delish home page](search.png)
 
 ### 10: Help and Documentation
@@ -109,6 +110,7 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 ### 1: Visibility of System Status
 |Rating|Evaluation|
 |0| This app allows the user to track all the actions that they take. It will allow the user to check the items of their interests and to save it up for later view. It also allows the user to have list of options when they search.
+
 ![Mealime home page](savedd.png) ![Mealime home page](options.png)
 
 
