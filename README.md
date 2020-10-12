@@ -105,6 +105,7 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 
 ## Heuristic Evaluation on App - *Mealime*
 https://www.mealime.com/
+
 Mealime is an app that allows the user to search for new recipes. The app provides the information of the cookware, ingredients, and instructions with details. It allows the user to select on the grocery check list which will list all the ingredients. There is also an option for delivery and pick up from different locations of preferences. 
 
 ![Mealime home page](screenshot.png)
