@@ -41,6 +41,7 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |3| It will be easier to look through the navigation bar when the categories are more organized. Since there are cateory of "Meals & Cooking" and "Holidays", it might confuse the user and make it not effecient. It will be more eaier to be understood if the "Holiday" was in the subcategory of "Meals & Cooking", because it is a category of recipe. |
 
 ![Delish home page](pumpkinn.png) 
+
 ![Delish home page](navigationbar.png)
 
 ### 3: User Control and Freedom
