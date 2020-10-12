@@ -110,3 +110,4 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 ### 1: Visibility of System Status
 |Rating|Evaluation|
 |
+
