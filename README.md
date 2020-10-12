@@ -171,7 +171,7 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 |2| There are support page and F&Q pages with list of questions. However, the information descriptions are very long and oveloaded that it is not very easy to look for the information. A virtual service button or service navigation steps can be provided for easier assistant when needed.|
 |0|The contact us service is very well organized. It allows easy approach to the service center. |
 
-![Mealime home page](contact.png)
+![Mealime home page](contactt.png)
 
 
 
