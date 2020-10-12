@@ -102,3 +102,11 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |3| There can be a function that allows the user to search for help easily with "top article suggestions" or "relevant search options".
 |3| The website provides too much unnecessary information during the process of search. The options should be strictly narrowed down with relevant answers or posts. 
 
+## Heuristic Evaluation on App - *Mealime*
+https://www.mealime.com/
+Mealime is an app that allows the user to search for new recipes. The app provides the information of the cookware, ingredients, and instructions with details. It allows the user to select on the grocery check list which will list all the ingredients. There is also an option for delivery and pick up from different locations of preferences. 
+![Mealime home page](screenshot.png)
+
+### 1: Visibility of System Status
+|Rating|Evaluation|
+|
