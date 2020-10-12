@@ -57,6 +57,8 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |3| The website also allows the user to make purchase of the recipe's ingredients from different food distributors. However, there isn't any shopping cart option where is allows the user to see their saved items. Also, in the navigation bar, the items "Delish Shop" automatically redirects the user in to another shopping website. This can be found very ineffective and might diminsh the user-friendly design.|
 |3| On the upper right hand side of the webpage, where the other webpages follows the external format of placing a shopping cart, account button, saved preferences, this webpage just lines up a button of "subscription" and "account". It will be more familiar to the users to provide icons on the top upper right hand corner for conveninece.
 
+![Delish home page](icon.png)
+
 ### 5: Error Prevention
 |Rating| Evaluation|
 |---|---|
@@ -89,6 +91,8 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |Rating|Evaluation|
 |----|----|
 |3| There is no "not found" or "Error" function in the search option. Even though a wrong word is typed, there would be number of results. This would not only make the users think that the search is inaccurate, but also will not be helpful to correct the errors that they've made. The website fails to precisely indicate the error or problem.|
+
+![Delish home page](search.png)
 
 ### 10: Help and Documentation
 |Rating| Evaluation|
