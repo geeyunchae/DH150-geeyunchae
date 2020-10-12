@@ -18,7 +18,9 @@ Ratings from 1~3 are used to examine the usability problems.
 |3|Major usability problem, important to fix; top priority|
 
 ### Heurisic Evaluation of Website - *Delish*
+
 https://www.delish.com/
+
 Delish is a website that provides variety of food recipes and food trends. All the dishes are provided with a video insturction of how to make them. 
 Underneath the video, there are 3 section that provides the user the yields, prep time, and total time. On the upper left-hand side of the webpage, there
 is a button that will lead the user to the search bar, and website categories. In the navigation bar there are 15 items: 
