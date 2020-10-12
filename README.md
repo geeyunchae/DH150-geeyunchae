@@ -91,7 +91,7 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 |----|----|
 |3| There is no "not found" or "Error" function in the search option. Even though a wrong word is typed, there would be number of results. This would not only make the users think that the search is inaccurate, but also will not be helpful to correct the errors that they've made. The website fails to precisely indicate the error or problem.|
 
-![Delish home page](search.png)
+![Delish home page](searchh.png)
 
 ### 10: Help and Documentation
 |Rating| Evaluation|
