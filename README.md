@@ -111,9 +111,50 @@ Mealime is an app that allows the user to search for new recipes. The app provid
 
 ### 1: Visibility of System Status
 |Rating|Evaluation|
-|0| This app allows the user to track all the actions that they take. It will allow the user to check the items of their interests and to save it up for later view. It also allows the user to have list of options when they search.
+|----|----|
+|0| This app allows the user to track all the actions that they take. It will allow the user to check the items of their interests and to save it up for later view. It also allows the user to have list of options when they search. It provides convenience and ensures accuracy.
 
 ![Mealime home page](savedd.png) ![Mealime home page](options.png)
+
+### 2: Match Between System and the Real World
+|Rating|Evaluation|
+|----|----|
+|1| This app works just like a physical cook book. The instructions are listed with careful and specific measurements. However, it will be more effecient if somekind of picture or video of cooking procedure are provided. 
+
+### 3: User Control and Freedom
+|Rating|Evaluation|
+|----|----|
+|1| The app allows the user to click on the finished meal from the meal plan on the site. However, you'll need to tap on the setting button on the right hand corner in order to actually delete the one that you've accidentally added. It will be more efficient to add a function to slide to delete.|
+
+### 4: Consistency and Standards
+|Rating|Evaluation|
+|----|----|
+|2| It will be more easier to lock the icon bar at the bottom of the app throughout the navigation. When searching for meal, the tool disappers and you have to press on the exit button to see your preference. 
+
+### 5: Error Prevention
+|Rating|Evaluation|
+|----|----|
+|1| It would have been helpful when there are typo indicator or relevant options in this app. It a typo is made, it will just lead on the no matching recipes page.
+|2| Most of the recipes are "pro-only". When a user presses on to one of the following, a pop up will be alerting that this recipe is only for pro and requires a paid upgrade. It will be more efficent if paid and free vesions are categorized for easier search.
+
+### 6: Recognition Rather than Recall
+|Rating|Evaluation|
+|----|----|
+|3| It would be very helpful to provide or list relevant search options from the past interest of the users. This app allows you to save the recipes, but does not recommend according to the user's interest. The categories are mostly listed by: recently created, most popular, top rated, etc.
+
+### 7: Flexibility and Efficiency of Use
+|Rating|Evaluation|
+|----|----|
+|3| It is very important for an app to have accelerators in their system. This app is conveninent, but does not perform any function of accelerators. Double-tap to like or save; Slide to delete a meal plan or recipe might be useful.
+
+### 8: Aesthetic and Minimalistic Design
+|Rating|Evaluation|
+|----|----|
+|0| All the fonts size and font style aligns. It gives a clean overall look.
+|2| On the first page of build a meal plan, it might have been more easier for the user to show the categories of the meals, rather than listing all kinds of meal by the recently added order. 
+|2| Icons of different categories (pasta, meat, etc.) would have been made the app look more clean and minimalistic rather than showing all the food pictures at once. 
+![Mealime home page](
+
 
 
 
