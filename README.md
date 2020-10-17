@@ -71,6 +71,7 @@ Shop Delish Ice Crea, All Videos, Newsletter, About Us, Follow, Bite Club.
 
 ### 6: Recognition Rather Than Recall
 |Rating| Evaluation|
+|----|----|
 |2| Upon searching and looking for a specific recipe, it will be helpful to provide related recipes that might create a better meal idea for the user.|
 |3| When searching for a word, it will be more easier for the user to see the possible options throught the drop down list.
 |3| A saved or like buttton can be helpful to collect the information of user interest. There isn't any function on the web that allows the user the view what they've been looking or searching for. |
